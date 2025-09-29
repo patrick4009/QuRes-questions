@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which streaming service do you use most often?",
+      "type": "multiple_choice",
+      "options": ["Netflix", "Amazon Prime Video", "Disney+", "Hulu", "Other"],
+      "targeting": {
+        "age": "all",
+        "location": "all"
+      },
+      "points": 5
+    },
+    {
+      "id": "q2",
+      "question": "This website is easy to navigate.",
+      "type": "agree_disagree",
+      "options": [],
+      "targeting": {
+        "age": "all",
+        "location": "all"
+      },
+      "points": 5
+    },
+    {
+      "id": "q3",
+      "question": "On a scale from 0 to 10, how likely are you to purchase from this website?",
+      "type": "scale",
+      "options": [],
+      "targeting": {
+        "age": "all",
+        "location": "all"
+      },
+      "points": 5
+    },
+    {
+      "id": "q4",
+      "question": "What improvements would you suggest for this website?",
+      "type": "short_text",
+      "options": [],
+      "targeting": {
+        "age": "all",
+        "location": "all"
+      },
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "question": "How often do you shop online?",
+      "type": "multiple_choice",
+      "options": ["Daily", "Weekly", "Monthly", "Rarely", "Never"],
+      "targeting": {
+        "age": "18-65",
+        "location": "all"
+      },
+      "points": 5
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2024-01-01",
+    "totalQuestions": 5
+  }
+}
