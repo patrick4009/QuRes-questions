@@ -13,9 +13,9 @@
     },
     {
       "id": "q2",
-      "question": "This website is easy to navigate.",
+      "question": "Which of these factors would make you switch from Heinz ketchup to another brand?",
       "type": "agree_disagree",
-      "options": [],
+      "options": ["Price increase", "New flavors", "Healthier ingredients", "Packaging", "Nothing would make me switch"],
       "targeting": {
         "age": "all",
         "location": "all"
@@ -24,8 +24,8 @@
     },
     {
       "id": "q3",
-      "question": "On a scale from 0 to 10, how likely are you to purchase from this website?",
-      "type": "scale",
+      "question": "What is the main reason you would buy Colgate toothpaste instead of another brand?",
+      "type": "0-10 scale",
       "options": [],
       "targeting": {
         "age": "all",
@@ -35,8 +35,8 @@
     },
     {
       "id": "q4",
-      "question": "What improvements would you suggest for this website?",
-      "type": "short_text",
+      "question": "If Magnum introduced a plant-based multipack at the same price as the regular version, how likely would you be to buy it?",
+      "type": "0-10 scale",
       "options": [],
       "targeting": {
         "age": "all",
@@ -46,11 +46,11 @@
     },
     {
       "id": "q5",
-      "question": "How often do you shop online?",
+      "question": "How often do you buy Starbucks ready-to-drink coffee from supermarkets or convenience stores?",
       "type": "multiple_choice",
-      "options": ["Daily", "Weekly", "Monthly", "Rarely", "Never"],
+      "options": ["Never", "Once a month", "2-3 times a month", "Weekly", "More than once a week"],
       "targeting": {
-        "age": "18-65",
+        "age": "all",
         "location": "all"
       },
       "points": 5
