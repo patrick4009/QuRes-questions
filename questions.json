@@ -25,7 +25,7 @@
     {
       "id": "q3",
       "question": "What is the main reason you would buy Colgate toothpaste instead of another brand?",
-      "type": "scale",
+      "type": "short_text",
       "options": [],
       "targeting": {
         "age": "all",
