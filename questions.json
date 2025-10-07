@@ -25,7 +25,7 @@
     {
       "id": "q3",
       "question": "What is the main reason you would buy Colgate toothpaste instead of another brand?",
-      "type": "0-10 scale",
+      "type": "scale",
       "options": [],
       "targeting": {
         "age": "all",
@@ -36,7 +36,7 @@
     {
       "id": "q4",
       "question": "If Magnum introduced a plant-based multipack at the same price as the regular version, how likely would you be to buy it?",
-      "type": "0-10 scale",
+      "type": "scale",
       "options": [],
       "targeting": {
         "age": "all",
