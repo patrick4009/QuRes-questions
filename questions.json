@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which streaming service do you use most often?",
+      "type": "multiple_choice",
+      "options": ["Netflix", "Amazon Prime Video", "Disney+", "Hulu", "Other"],
+      "targeting": {
+        "age": "all",
+        "location": "all"
+      },
+      "points": 5
+    },
+    {
+      "id": "q2",
+      "question": "Which of these factors would make you switch from Heinz ketchup to another brand?",
+      "type": "multiple_choice",
+      "options": ["Price increase", "New flavors", "Healthier ingredients", "Packaging", "Nothing would make me switch"],
+      "targeting": {
+        "age": "all",
+        "location": "all"
+      },
+      "points": 5
+    },
+    {
+      "id": "q3",
+      "question": "What is the main reason you would buy Colgate toothpaste instead of another brand?",
+      "type": "short_text",
+      "options": [],
+      "targeting": {
+        "age": "all",
+        "location": "all"
+      },
+      "points": 5
+    },
+    {
+      "id": "q4",
+      "question": "If Magnum introduced a plant-based multipack at the same price as the regular version, how likely would you be to buy it?",
+      "type": "scale",
+      "options": [],
+      "targeting": {
+        "age": "all",
+        "location": "all"
+      },
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "question": "How often do you buy Starbucks ready-to-drink coffee from supermarkets or convenience stores?",
+      "type": "multiple_choice",
+      "options": ["Never", "Once a month", "2-3 times a month", "Weekly", "More than once a week"],
+      "targeting": {
+        "age": "all",
+        "location": "all"
+      },
+      "points": 5
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2024-01-01",
+    "totalQuestions": 5
+  }
+}
